@@ -1,5 +1,5 @@
-Yupik Mixin Position
-====================
+Yupik Mixin Font
+================
 
 ## reworking in progress !
 
@@ -7,4 +7,4 @@ Yupik Mixin Position
 
 Install using Bower:
 
-    $ bower install --save yupik-mixin-position
+    $ bower install --save yupik-mixin-font

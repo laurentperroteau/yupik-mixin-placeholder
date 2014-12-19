@@ -1,0 +1,21 @@
+
+// ------------------------------- //
+// ::: Yupik Mixin Placeholder ::: //
+// ------------------------------- //
+
+
+// demander à l'auteur de l'ajouter à bower
+
+// Set styles for placeholder (cross browsers solution)
+// ====================================================
+// => https://github.com/michaelsacca/Compass-Placeholder-Text-Mixin
+// @use: 
+//     @include placeholder {
+//         color: $colorPlaceholder;
+//     }
+@mixin placeholder {
+    &:-moz-placeholder,
+    &::-moz-placeholder,
+    &:-ms-input-placeholder,
+    &::-webkit-input-placeholder { @content; } 
+}
