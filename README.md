@@ -1,9 +1,9 @@
-Yupik Mixin Font
-================
+Yupik Mixin Placeholder
+=======================
 
-## reworking in progress !
+### Mixins that generate cross-browser styles for placeholder attribut of input element
 
-### Mixins that simplified the use of position property
+> Is part of [Yupik collection of modules](https://github.com/laurentperroteau/yupik)
 
 Install using Bower:
 

@@ -1,12 +1,12 @@
 {
-  "name": "yupik-mixin-font",
+  "name": "yupik-mixin-placeholder",
   "version": "0.0.1",
-  "homepage": "https://github.com/laurentperroteau/yupik-mixin-font",
+  "homepage": "https://github.com/laurentperroteau/yupik-mixin-placeholder",
   "authors": [
     "laurentperroteau <laurentperroteau@gmail.com>"
   ],
-  "description": "Mixins that simplified the use of position property",
-  "main": "_mixin.font.scss",
+  "description": "Mixins that generate cross-browser styles for placeholder attribut of input element",
+  "main": "_mixin.placeholder.scss",
   "keywords": [
     "grandwazoo",
     "inuitcss",
@@ -22,8 +22,4 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "yupik-function": "~0.0.1"
-  }
-}
+  ]
