@@ -7,4 +7,4 @@ Yupik Mixin Placeholder
 
 Install using Bower:
 
-    $ bower install --save yupik-mixin-font
+    $ bower install --save yupik-mixin-placeholder
